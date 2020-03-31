@@ -179,7 +179,7 @@ return {
 	};
 
 	ChoiceDialog = {
-		URL = "https://raw.githubusercontent.com/RoStrap/RoStrapUI/master/ChoiceDialog.lua";
+		URL = "https://raw.githubusercontent.com/ViniDalvino/RoStrapUI/master/ChoiceDialog.lua";
 		Documentation = "https://rostrap.github.io/Libraries/RoStrapUI/ChoiceDialog/";
 		ParentFolderPath = "RoStrapUI";
 	};
