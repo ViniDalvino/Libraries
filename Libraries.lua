@@ -239,7 +239,7 @@ return {
 	};
 
 	Snackbar = {
-		URL = "https://raw.githubusercontent.com/RoStrap/RoStrapUI/master/Snackbar.lua";
+		URL = "https://raw.githubusercontent.com/ViniDalvino/RoStrapUI/master/Snackbar.lua";
 		Documentation = "https://rostrap.github.io/Libraries/RoStrapUI/Snackbar/";
 		ParentFolderPath = "RoStrapUI";
 	};
