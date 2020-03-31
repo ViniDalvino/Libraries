@@ -185,7 +185,7 @@ return {
 	};
 	
 	ConfirmationDialog = {
-		URL = "https://raw.githubusercontent.com/RoStrap/RoStrapUI/master/ConfirmationDialog.lua";
+		URL = "https://raw.githubusercontent.com/ViniDalvino/RoStrapUI/master/ConfirmationDialog.lua";
 		Documentation = "https://rostrap.github.io/Libraries/RoStrapUI/ConfirmationDialog/";
 		ParentFolderPath = "RoStrapUI";
 	};
