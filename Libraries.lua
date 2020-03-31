@@ -221,7 +221,7 @@ return {
 	};
 
 	RoStrapPriorityUI = {
-		URL = "https://raw.githubusercontent.com/RoStrap/RoStrapUI/master/RoStrapPriorityUI.lua";
+		URL = "https://raw.githubusercontent.com/ViniDalvino/RoStrapUI/master/RoStrapPriorityUI.lua";
 		Documentation = "WIP";
 		ParentFolderPath = "RoStrapUI";
 	};
